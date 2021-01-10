@@ -13,15 +13,15 @@ This is a sample readme file for our Github Example repo. We;re learning Markdow
 2. Item 2
 3. Item 3
 
-'pip install openpyxl'
+`pip install openpyxl`
 
-'''
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-'''
+```
 
 
 - [x] Write the press release
