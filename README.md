@@ -9,14 +9,14 @@ Press `⊞Win`+`s` in windows and search for 'cmd'
 `pip install virtualenv`
 3. Navigate to a folder you would like to download this project into <br />
 `cd <folder location>` <br />
-  example: `C:\Windows\System32>cd C:Users\Reuben\Desktop\MusicSpinner`
+  example: `C:\Windows\System32>cd C:Users\Reuben\Desktop\MusicSpinner`
 4. Download this project into the folder <br />
 `git clone https://github.com/Reuben3901/MusicSpinner.git`
 5. Create the virtual environment, named virtenv <br />
 `python -m venv virtenv`
 6. Activate the virtual environment <br />
 `virtenv\Scripts\activate.bat` <br />
-   You will now see: `(virtenv)` in front: `(virtenv) C:Users\Reuben\Desktop\MusicSpinner>`
+  You will now see: `(virtenv)` in front: `(virtenv) C:Users\Reuben\Desktop\MusicSpinner>`
 7. Always good to upgrade Python's package handler pip <br />
 `python -m pip install --upgrade pip`
 8. Install the required modules to run this program <br />
