@@ -1,4 +1,4 @@
-# Example Site
+# MusicSpinner
 
 
 ## Installation
