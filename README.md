@@ -1,4 +1,5 @@
 # MusicSpinner
+### Version 1.0.0
 
 A fun interactive program using Python and Pygame for musicians to practice and improve their skills while simultaneously flexing their creative muscles by playing different genres of music at random bpm's
 
