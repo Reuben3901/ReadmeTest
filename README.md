@@ -1,5 +1,6 @@
 # MusicSpinner
 
+A fun interactive program using Python and Pygame for musicians to practice and improve their skills while simultaneously flexing their creative muscles by playing different genres of music at random bpm's
 
 ## Installation
 
@@ -32,6 +33,8 @@ Simply add pygame to your global Python installation <br />
 Then follow steps #3, 4, 9
 
 
+## License & Copyright
+© Reuben W. Young
 
 
  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
