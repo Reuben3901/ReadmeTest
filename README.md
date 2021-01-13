@@ -47,7 +47,7 @@ This program is a tool to automatically process SilverSneaker member visit repor
 
 The automation of this task saved 20+ hours of work each month for employees and the generated statistics revealed a missed opportunity of more than $1200 in monthly revenue.
 
-Sample reports and member data included to see the program run for yourself:
+### Sample reports and member data included to try the program for yourself:
 * FrontDoorKeysReport.txt
 * MindBodyReport.xlsx
 * CompleteMemberList.xlsx
